@@ -1,5 +1,5 @@
-pkg_name="hello-hab-site"
-pkg_origin="mgamini"
+pkg_name=hello-hab-site
+pkg_origin=mgamini
 pkg_version="0.1.0"
 pkg_maintainer="Garrett Amini <kadjar@gmail.com>"
 
