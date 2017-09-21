@@ -1,5 +1,5 @@
-pkg_name="garrett-nginx-server"
-pkg_origin="mgamini"
+pkg_name=nginx-server
+pkg_origin=mgamini
 pkg_version="0.1.0"
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_license=('Apache-2.0')
